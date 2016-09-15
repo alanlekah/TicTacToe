@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Players()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Players\ and\ sets\ player's\ scores\ to\ zero.\r\n
+comment1.params=q\ w
+comment1.target=void\ setPlayerName(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ A\ method\ that\ makes\ the\ playerNames\ instance\ variables\ set\ to\ the\ player's\ names.\r\n\ \r\n\ @param\ \ q\ \ Of\ Type\ String\ of\ Player1's\ Name\r\n\ @param\ \ w\ \ Of\ Type\ String\ of\ Player2's\ Name\r\n
+comment2.params=e
+comment2.target=java.lang.String\ getPlayerName(int)
+comment2.text=\r\n\ A\ method\ that\ returns\ a\ player's\ name.\r\n\ \r\n\ @param\ \ An\ integer\ that\ indicates\ a\ player(1\ \=\ player\ one)\ (2\ \=\ player\ two)\r\n\ @return\ \ \ \ \ Player's\ name\ \r\n
+comment3.params=player
+comment3.target=void\ setPlayerScore(java.lang.String)
+comment3.text=\r\n\ A\ method\ that\ sets\ the\ player's\ score\ equal\ to\ a\ nwe\ value.\r\n\ \r\n\ @param\ \ Player\ name\r\n
+comment4.params=aPlayer
+comment4.target=int\ getPlayerScore(java.lang.String)
+comment4.text=\r\n\ A\ method\ that\ returns\ the\ player's\ scores.\r\n\ \r\n\ @param\ \ Player\ name\ \r\n\ @return\ \ \ \ Chosen\ player's\ score\r\n
+numComments=5

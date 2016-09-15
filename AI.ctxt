@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=AI(Rules)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AI\r\n
+comment1.params=b\ r\ AIPosition
+comment1.target=void\ takeTurn(Board,\ Rules,\ int)
+comment1.text=\r\n\ A\ Method\ that\ Updates\ Board\ Position\ Number\ with\ Computer\ Decision\r\n\ \r\n\ @param\ \ b\ \ \ Object\ of\ type\ Board\r\n\ @param\ \ r\ \ \ Object\ of\ type\ Rules\r\n\ @param\ \ AIPosition\ \ Int\ of\ computer's\ decision\ on\ O\ position\r\n
+comment2.params=b\ r
+comment2.target=int\ decidePosition(Board,\ Rules)
+comment2.text=\r\n\ A\ Method\ that\ Chooses\ Which\ Position\ Would\ Prevent\ Player\ from\ Winning\ and\ Tries\ to\ Win\r\n\ @param\ \ b\ \ \ Object\ of\ type\ Board\r\n\ @param\ \ r\ \ \ Object\ of\ type\ Rules\r\n\ @return\ int\ Position\ Number\ on\ Board\r\n
+comment3.params=
+comment3.target=int\ getComputerMove()
+comment3.text=\r\n\ A\ Method\ to\ Return\ Computer's\ Decision\ on\ Position\ Placement\r\n\ @return\ Int\ Computer's\ Decision\r\n
+numComments=4

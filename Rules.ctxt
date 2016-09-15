@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rules()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rules\r\n
+comment1.params=b
+comment1.target=boolean\ isWinner(Board)
+comment1.text=\r\n\ Method\ to\ check\ for\ winner\ in\ Board\ class\r\n\ \r\n\ @param\ \ b\ \ \ The\ Board\ object\r\n\ @return\ \ \ \ \ true\ or\ false\ value\ if\ someone\ is\ a\ winner\r\n
+comment2.params=e\ b
+comment2.target=boolean\ isFilled(int,\ Board)
+comment2.text=\r\n\ A\ Method\ to\ Check\ if\ a\ Space\ in\ Tic-Tac-Toe\ is\ Already\ Filled\r\n\ \r\n\ @param\ \ e\ \ \ of\ type\ int\ to\ reference\ tic-tac-toe\ position\ number\r\n\ @param\ \ b\ \ \ The\ Board\ object\r\n\ @return\ \ \ \ \ boolean\ value\ if\ a\ space\ is\ filled\ or\ not\r\n
+comment3.params=
+comment3.target=int\ getTurn()
+comment3.text=\r\n\ Return\ turn\ number\r\n\ @return\ \ \ int\ of\ turn\ number\r\n
+comment4.params=
+comment4.target=void\ resetTurn()
+comment4.text=\r\n\ Set\ Turn\ Number\ Back\ to\ 1\r\n
+comment5.params=
+comment5.target=void\ resetWinner()
+comment5.text=\r\n\ Reset\ Winner\ Value\ Back\ to\ False\r\n
+numComments=6

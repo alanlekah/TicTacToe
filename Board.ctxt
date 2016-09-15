@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ Contructor\ for\ an\ object\ of\ Type\ Board\r\n
+comment1.params=
+comment1.target=void\ clearPosValue()
+comment1.text=\ \r\n\ Method\ That\ Resets\ Board\ To\ Show\ Position\ Values\r\n
+comment2.params=newX\ position
+comment2.target=void\ setPosValue(java.lang.String,\ int)
+comment2.text=\r\n\ Method\ to\ Set\ Position\ Value\r\n\ @param\ newX\ of\ Type\ String\ Sets\ X\ or\ O\ to\ position\r\n\ @param\ position\ To\ Determine\ Correct\ Placement\ of\ X\ or\ O\r\n
+comment3.params=i
+comment3.target=java.lang.String\ getPosValue(int)
+comment3.text=\r\n\ A\ Method\ to\ Return\ Symbol\ that\ Holds\ Position\ in\ Grid\r\n\ @param\ \ i\ \ Position\ Number\r\n\ @return\ \ \ Return\ a\ String\ of\ Variable\ Position\r\n
+numComments=4
